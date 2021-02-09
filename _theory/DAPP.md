@@ -46,7 +46,7 @@ decomposition: >
    <li>using a dedicated application such as the <a href="../../tools/pathways-generator/">Pathways Generator</a> [4] </li>
    <li> based on models such as agent-based models [14], using multi-objective robust optimisation [6], serious games [7,8] </li>
    <li> during stakeholder focus group discussions [3]</li>
-   <li> using a combimation of model-based assessment and group discussions </li></ul>
+   <li> using a combination of model-based assessment and group discussions </li></ul>
    </li>
   <li>
   The performance of each pathway is then evaluated and recorded in a scorecard. Methods of evaluation include:<ul>
