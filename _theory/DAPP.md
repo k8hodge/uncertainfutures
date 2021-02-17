@@ -28,8 +28,7 @@ requirements: >
   </li>
   </ul></p>
 decomposition: >
-  <p> The DAPP framework can be decomposed into eight main iterative steps as presented in figure 1 [2]:
-  <img src="../../images/Haasnoot et al_2019_DAPP framework.jpg" width=50% alt="Description of the seven steps to implement the DAPP framework process from problem framing to evaluation and monitoring of a plan".>
+  <p> The DAPP framework can be decomposed into eight main iterative steps [2]:
   <ol>
   <li> Participatory problem framing, defining:
    <ul>
@@ -72,6 +71,9 @@ decomposition: >
   <li> Implementation of the adaptive plan </li>
   <li> Monitoring of the strategy and re-evaluation of the plan, if necessary </li>
   </ol></p>
+  <p>The summary figure provided by Haasnoot et al. [2] is shown below.
+    <img align="center" src="../../images/Haasnoot et al_2019_DAPP framework.jpg" width=70% alt="Description of the seven steps to implement the DAPP framework process from problem framing to evaluation and monitoring of a plan.">
+  </p>
 tools:
   - slug: pathways-generator
     name: Pathways Generator
