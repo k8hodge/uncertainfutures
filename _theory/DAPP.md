@@ -12,19 +12,20 @@ purpose: >
   <p> DAPP also supports participatory modelling through engaging stakeholders and decision makers in problem-solving activities [2,3]</p>
   <p> The approach was originally built to implement climate-resilient pathways for long-term water resources strategic planning but can be applied to other long-term strategic planning problems under <a href="../DMDU/">deep uncertainty</a> [2,13] </p> 
   <p> The approach is useful [2]: <ul>
-  <li> to raise decision-makers' awareness about the impact of climate and other uncertainties (e.g., change in global market demands for crop production, migration of refugees due to conflicts or natural disasters)  and improve their capacity to design management plans/actions that could cope with multiple plausible future conditions. </li>
+  <li> to raise decision-makers' awareness about the impact of climate and other uncertainties, e.g., change in global market demands for crop production, migration of refugees due to conflicts or natural disasters</li>
+  <li> to improve decision-makers' capacity to design management plans/actions that can cope with multiple plausible future conditions </li>
   <li> when considering coupled physical-technical-human systems and long time planning horizons </li>
   <li> when considering the potential for implementing alternative adaptation actions to solve issues according to how the future may unfold </li> 
   </ul></p>
 requirements: >
   <p> Operationalising the DAPP approach requires: <ul>
-  <li> stakeholders' buy-in and engagement in relevant activities [3] </li>
-  <li> considering the intervention of local knowledge-brokers to facilitate the application of the approach and stakeholder engagement [3]. Knowledge-brokers are described as influential on facilitating learning and modelling/simulation game activities and in influencing DAPP uptake for planning purposes through:<ul>
-  <li> translating knowledge from a range of sources </li>
-  <li> increasing decision-makers' awareness about climate change impacts on different management options </li>
-  <li> helping participants to identify options, evaluate them and develop adaptive pathways map using DAPP in participatory modelling activities including simulation games </li>
-  <li> catalysing capability-building and the interest of Senior managers that could influence the uptake of DAPP for planning design </li>
-  </ul>
+    <li> stakeholder buy-in and engagement in relevant activities [3] </li>
+    <li> considering the intervention of local knowledge-brokers to facilitate uptake and  application of the approach and stakeholder engagement [3]:<ul>
+      <li> translating knowledge from a range of sources </li>
+      <li> increasing decision-makers' awareness about climate change impacts on different management options </li>
+      <li> helping participants to identify options, evaluate them and develop adaptive pathways map using DAPP in participatory modelling activities including simulation games </li>
+      <li> catalysing capability-building and the interest of senior managers who could influence the uptake of DAPP for planning design </li>
+    </ul>
   </li>
   </ul></p>
 decomposition: >
@@ -34,8 +35,10 @@ decomposition: >
    <ul>
    <li>boundaries of a system of interest</li>
    <li>performance objectives, including conditions of success for the system used to evaluate performance of policy options</li>
-   <li>current and future vulnerabilities (i.e., conditions/risk factors for which the system (will) fail to achieve acceptable objectives). These vulnerabilities could be either managed by actions or policy options (e.g., reservoir development to support water users and associated uses, education to support the adoption of best practices, microirrigation systems to improve water efficient uses at the field level) or be non-manageable due to uncertainty regarding how such factors may evolve (e.g., climate change, national legislation, global markets, population growth). The latter category is used to define narratives (scenarios) describing different combinations of these non-manageable factors and associated values. Such narratives could be either static (i.e., based on the definition of an end-point into the future) or transient (i.e., describing different developments over time) [10]. </li>
-   </ul> 
+   <li>current and future vulnerabilities (i.e., conditions/risk factors for which the system (will) fail to achieve acceptable objectives). Vulnerabilities may be:<ul>
+     <li>intended to be managed by actions or policy options, e.g., reservoir development to support water users and associated uses, education to support the adoption of best practices, microirrigation systems to improve water efficient uses at the field level</li>
+     <li>non-manageable factors with uncertainty as to how they may evolve, to be described within narratives (<a href="../scenario-development/">scenarios</a>), e.g., climate change, national legislation, global markets, population growth. </li>
+   </ul></ul> 
   </li>
   <li> Identification of adaptation <a href="../tipping-points/">tipping points</a> (ATPs), i.e. conditions and timing of failure for the current system when facing different future scenarios. Approaches to identify ATPs (i.e., threshold values) include: <ul>
    <li> 'bottom-up' approaches: <a href="../stress-testing/">stress tests</a> through sensitivity analyses, <a href="../scenario-discovery/">scenario discovery</a> [5], expert judgement [1], and/or stakeholder consultation [3]</li>
@@ -88,6 +91,9 @@ also_see:
   - permalink: /theory/adaptive-pathways/
     name: Adaptive pathways
     description: Descriptions of the sequences of options that can be taken and the circumstances in which alternative sequences might be selected.
+  - permalink: /theory/adaptation-pathways/
+    name: Adaptation pathways
+    description: TODO
 further_reading:
   - >
     Haasnoot, M., Kwakkel, J. H., Walker, W. E., & Maat, J. ter. (2013). <a href="https://doi.org/10.1016/j.gloenvcha.2012.12.006">Dynamic adaptive policy pathways: A method for crafting robust decisions for a deeply uncertain world. </a> Global Environmental Change, 23(2), 485–498.
@@ -130,6 +136,4 @@ references:
     [13] Michas, S., Stavrakas, V., Papadelis, S., & Flamos, A. (2020).<a href="https://doi.org/10.1016/j.enpol.2020.111350"> A transdisciplinary modeling framework for the participatory design of dynamic adaptive policy pathways.</a> Energy Policy, 139, 111350.
   - >
     [14] Magliocca, N., & Walls, M. (2018). <a href="https://scholarsarchive.byu.edu/iemssconference/2018/Stream-F/41/">Exploring distributional influences on and effects of dynamic adaptive policy pathways for repeated coastal hazards</a>. iEMSs2018 Fort Collins, Colorado, USA. (abstract only)
-  - >
-    [15] Smit, B., & Wandel, J. (2006). <a href=" https://doi.org/10.1016/j.gloenvcha.2006.03.008">Adaptation, adaptive capacity and vulnerability.</a> Global Environmental Change, 16(3), 282–292.
 ---
