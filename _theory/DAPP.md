@@ -43,10 +43,12 @@ decomposition: >
    <li> 'top-down' approaches: model-based assessment using static or transient [9] <a href="../scenario-development/">scenarios</a></li></ul>
   </li>
   <li> Identification of alternative actions based on step 1 and 2, to address identified vulnerabilities or opportunities, followed by determination of their ATPs </li>
-  <li> Design and assessment of the <a href="../adaptive-pathways">adaptive pathways</a>. This stage leads to the design of a pathway map (figure 2), also defined as "metro map", to achieve a performance objective for the system. 
-  <img src="../../images/haasnoot-2019-metro-map.jpg" width=50% alt="Illustration of an adaptation pathways' metro map and its associated scorecard".>
+  <li> Design and assessment of the <a href="../adaptive-pathways">adaptive pathways</a>. This stage leads to the design of a pathway map (see figure below), also referred to as a "metro map", with different pathways evaluated in terms of performance objectives for the system [2]. 
   </li>
   <p>Opportunities, no-regret actions, lock-ins and their associated timing of implementation under changing conditions can be inferred from the map.</p>
+  <p>
+    <img src="../../images/haasnoot-2019-metro-map.jpg" alt="Illustration of an adaptation pathways' metro map and its associated scorecard">
+  </p>
   Methods to develop and explore adaptive pathways include:
   <ul>
    <li>drawing them manually</li>
