@@ -5,7 +5,7 @@ permalink: /theory/DAPP/
 excerpt: DAPP is a framework to evaluate policy robustness and adaptiveness under deep uncertainty. The approach combines adaptive policymaking and adaptive pathways concepts.
 purpose: >
   <p>DAPP  [1] aims at guiding the design of a robust and adaptive plan as a sequence of actions (near term and alternative future actions) over time through [2]: <ul>
-  <li>exploration of sequences of decisions through an <a href="../adaptation-pathways/">adaptation pathways</a> approach. This provides a portfolio of plausible robust and adaptive actions, consisting of near term and long term options, to be used within <a href=”../adaptive-pathways/”>adaptive pathways</a> for a system to cope under plausible futures (i.e., scenarios)</li>
+  <li>exploration of sequences of decisions through an <a href="../adaptation-pathways/">adaptation pathways</a> approach. This provides a portfolio of plausible robust and adaptive actions, consisting of near term and long term options, to be used within <a href="../adaptive-pathways/">adaptive pathways</a> for a system to cope under plausible futures (i.e., scenarios)</li>
   <li> making visible <a href="../path-dependency/">path dependency</a> of alternative future strategies</li>
   </ul>
   </p>
