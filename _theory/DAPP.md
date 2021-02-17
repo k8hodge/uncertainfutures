@@ -5,11 +5,10 @@ permalink: /theory/DAPP/
 excerpt: DAPP is a framework to evaluate policy robustness and adaptiveness under deep uncertainty. The approach combines adaptive policymaking and adaptive pathways concepts.
 purpose: >
   <p>DAPP  [1] aims at guiding the design of a robust and adaptive plan as a sequence of actions (near term and alternative future actions) over time through [2]: <ul>
-  <li>exploration of sequences of decisions (<a href="../adaptation-pathways/">adaptation pathways</a>) under plausible futures (i.e., scenarios)</li>
+  <li>exploration of sequences of decisions through an <a href="../adaptation-pathways/">adaptation pathways</a> approach to provide an <a href="../adaptive-pathways/">adaptive pathway</a> under plausible futures (i.e., scenarios)</li>
   <li> making visible <a href="../path-dependency/">path dependency</a> of alternative future strategies</li>
   </ul>
   </p>
-  <p> What is meant by 'adaptive' and 'adaptation' pathways is associated to the distinction between the attributes of a system allowing it to cope against different future uncertainties and the process to cope with such vulnerabilities [15]. In other words, adaptation pathways is an analytical approach providing a process in terms of deciding when and under which conditions acceptable actions need to be implemented to cope against multiple plausible futures. Adaptive pathways are the sequence of actions (i.e., attributes) for the system to be able to cope with multiple plausible futures.
   <p> DAPP also supports participatory modelling through engaging stakeholders and decision makers in problem-solving activities [2,3]</p>
   <p> The approach was originally built to implement climate-resilient pathways for long-term water resources strategic planning but can be applied to other long-term strategic planning problems under <a href="../DMDU/">deep uncertainty</a> [2,13] </p> 
   <p> The approach is useful [2]: <ul>
@@ -38,8 +37,8 @@ decomposition: >
    <li>performance objectives, including conditions of success for the system used to evaluate performance of policy options</li>
    <li>current and future vulnerabilities (i.e., conditions/risk factors for which the system (will) fail to achieve acceptable objectives). These vulnerabilities could be either managed by actions or policy options (e.g., reservoir development to support water users and associated uses, education to support the adoption of best practices, microirrigation systems to improve water efficient uses at the field level) or be non-manageable due to uncertainty regarding how such factors may evolve (e.g., climate change, national legislation, global markets, population growth). The latter category is used to define narratives (scenarios) describing different combinations of these non-manageable factors and associated values. Such narratives could be either static (i.e., based on the definition of an end-point into the future) or transient (i.e., describing different developments over time) [10]. </li>
    </ul> 
-</li>
-   <li> Identification of adaptation <a href="../tipping-points/">tipping points</a> (ATPs), i.e. conditions and timing of failure for the current system when facing different future scenarios. Approaches to identify ATPs (i.e., threshold values) include: <ul>
+  </li>
+  <li> Identification of adaptation <a href="../tipping-points/">tipping points</a> (ATPs), i.e. conditions and timing of failure for the current system when facing different future scenarios. Approaches to identify ATPs (i.e., threshold values) include: <ul>
    <li> 'bottom-up' approaches: <a href="../stress-testing/">stress tests</a> through sensitivity analyses, <a href="../scenario-discovery/">scenario discovery</a> [5], expert judgement [1], and/or stakeholder consultation [3]</li>
    <li> 'top-down' approaches: model-based assessment using static or transient [9] <a href="../scenario-development/">scenarios</a></li></ul>
   </li>
@@ -127,6 +126,6 @@ references:
     [13] Michas, S., Stavrakas, V., Papadelis, S., & Flamos, A. (2020).<a href="https://doi.org/10.1016/j.enpol.2020.111350"> A transdisciplinary modeling framework for the participatory design of dynamic adaptive policy pathways.</a> Energy Policy, 139, 111350.
   - >
     [14] Magliocca, N., & Walls, M. (2018). <a href="https://scholarsarchive.byu.edu/iemssconference/2018/Stream-F/41/">Exploring distributional influences on and effects of dynamic adaptive policy pathways for repeated coastal hazards</a>. iEMSs2018 Fort Collins, Colorado, USA. (abstract only)
-- >
+  - >
     [15] Smit, B., & Wandel, J. (2006). <a href=" https://doi.org/10.1016/j.gloenvcha.2006.03.008">Adaptation, adaptive capacity and vulnerability.</a> Global Environmental Change, 16(3), 282–292.
 ---
