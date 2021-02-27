@@ -9,28 +9,26 @@ purpose: >
   <li> making visible <a href="../path-dependency/">path dependency</a> of alternative future strategies</li>
   </ul>
   </p>
-  <p> What is meant by 'adaptive' and 'adaptation' pathways is associated to the distinction between the attributes of a system allowing it to cope against different future uncertainties and the process to cope with such vulnerabilities [15]. In other words, adaptation pathways is an analytical approach providing a process in terms of deciding when and under which conditions acceptable actions need to be implemented to cope against multiple plausible futures. Adaptive pathways are the sequence of actions (i.e., attributes) for the system to be able to cope with multiple plausible futures.
+  <p> What is meant by 'adaptive' and 'adaptation' pathways is associated to the distinction between the attributes of a system allowing it to cope against different future uncertainties and the process to cope with such vulnerabilities [15]. In other words, adaptation pathways is an analytical approach providing a process in terms of deciding when and under which conditions acceptable actions need to be implemented to cope against multiple plausible futures. Adaptive pathways are the actions (i.e., attributes) for the system to be able to cope with multiple plausible futures.
   <p> DAPP also supports participatory modelling through engaging stakeholders and decision makers in problem-solving activities [2,3]</p>
   <p> The approach was originally built to implement climate-resilient pathways for long-term water resources strategic planning but can be applied to other long-term strategic planning problems under <a href="../DMDU/">deep uncertainty</a> [2,13] </p> 
   <p> The approach is useful [2]: <ul>
-  <li> to raise decision-makers' awareness about the impact of climate and other uncertainties (e.g., change in global market demands for crop production, migration of refugees due to conflicts or natural disasters)  and improve their capacity to design management plans/actions that could cope with multiple plausible future conditions. </li>
+  <li> when applied to facilitate decision-making understanding and to support the acknowledgement of uncertainties in plans </li>
+  <li> as an enabler for action </li>
   <li> when considering coupled physical-technical-human systems and long time planning horizons </li>
   <li> when considering the potential for implementing alternative adaptation actions to solve issues according to how the future may unfold </li> 
   </ul></p>
 requirements: >
-  <p> Operationalising the DAPP approach requires: <ul>
-  <li> stakeholders' buy-in and engagement in relevant activities [3] </li>
-  <li> considering the intervention of local knowledge-brokers to facilitate the application of the approach and stakeholder engagement [3]. Knowledge-brokers are described as influential on facilitating learning and modelling/simulation game activities and in influencing DAPP uptake for planning purposes through:<ul>
-  <li> translating knowledge from a range of sources </li>
-  <li> increasing decision-makers' awareness about climate change impacts on different management options </li>
-  <li> helping participants to identify options, evaluate them and develop adaptive pathways map using DAPP in participatory modelling activities including simulation games </li>
-  <li> catalysing capability-building and the interest of Senior managers that could influence the uptake of DAPP for planning design </li>
-  </ul>
-  </li>
-  </ul></p>
+<p> Operationalising the DAPP approach requires: <ul>
+<li> setting the scene for a system of interest and defining a vision [2] </li>
+<li> defining narratives describing future plausible conditions [2] </li>
+<li> identifying indicators of change for the system and for actions and associated threshold values [2]</li>
+<li> stakeholders' buy-in and engagement in relevant activities [3] </li>
+<li> considering the intervention of local knowledge-brokers to facilitate the application of the approach and stakeholder engagement [3] </li>
+</ul></p>
 decomposition: >
   <p> The DAPP framework can be decomposed into eight main iterative steps as presented in figure 1 [2]:
-  <img src="../../images/Haasnoot et al_2019_DAPP framework.jpg" width=50% alt="Description of the seven steps to implement the DAPP framework process from problem framing to evaluation and monitoring of a plan".>
+ <p> <img src="../../images/Haasnoot et al_2019_DAPP framework.jpg" width=50% alt="Description of the seven steps to implement the DAPP framework process from problem framing to evaluation and monitoring of a plan".> </p>
   <ol>
   <li> Participatory problem framing, defining:
    <ul>
@@ -58,7 +56,7 @@ decomposition: >
    </li>
   <li>
   The performance of each pathway is then evaluated and recorded in a scorecard. Methods of evaluation include:<ul>
-  <li> cost-benefit analysis </li>
+  <li> cost-benefit analysis [16]</li>
   <li> multi-criteria analysis [12] </li>
   <li> real options analysis [12] </li>
   </ul></li>
@@ -81,10 +79,10 @@ also_see:
     description: A form of vulnerability analysis that can be used within DAPP (Step 2) to identify policy-relevant plausible future scenarios or a limited of future scenarios to focus on.
   - permalink: /theory/adaptive-policy-making/
     name: Adaptive policy making
-    description: TODO
-  - permalink: /theory/adaptive-pathways/
-    name: Adaptive pathways
-    description: Descriptions of the sequences of options that can be taken and the circumstances in which alternative sequences might be selected.
+    description: Approach supporting decision-makers' design of robust and adaptive plans.
+  - permalink: /theory/adaptation-pathways/
+    name: Adaptation pathways
+    description: Learning and decision aid family of approaches to halp decision makers' reflection about the ability of decision strategies to prevent maladaptation when facing multiple plausible futures.
 further_reading:
   - >
     Haasnoot, M., Kwakkel, J. H., Walker, W. E., & Maat, J. ter. (2013). <a href="https://doi.org/10.1016/j.gloenvcha.2012.12.006">Dynamic adaptive policy pathways: A method for crafting robust decisions for a deeply uncertain world. </a> Global Environmental Change, 23(2), 485–498.
@@ -93,8 +91,7 @@ further_reading:
   - >
     Lawrence, J., Haasnoot, M., McKim, L., Atapattu, D., Campbell, G., & Stroombergen, A. (2019). <a href="https://link.springer.com/chapter/10.1007/978-3-030-05252-2_9">Dynamic adaptive policy pathways (DAPP): From theory to practice</a>. In Decision Making under Deep Uncertainty (pp. 187–199). Springer, Cham.
 examples:
-  - >
-    Sustainable Delta Game: A simulation of a decision setting in a river catchment to support participant learning and preparation of a water management plan to deal with future situations [8]
+ - Sustainable Delta Game: A simulation of a decision setting in a river catchment to support participant learning and preparation of a water management plan to deal with future situations [8]
   - Application of DAPP for the Dutch Delta Programme to support adaptive planning for flood protection in the face of future climate and socio-economic changes [11].
   - Application and uptake of DAPP for flood risk management and planning under climate change uncertainty in New Zealand [3]
   - Application of the different steps of the DAPP approach in the context of the Rhine Delta in The Netherlands for flood risk adaptation against future climate change [1]
@@ -129,4 +126,7 @@ references:
     [14] Magliocca, N., & Walls, M. (2018). <a href="https://scholarsarchive.byu.edu/iemssconference/2018/Stream-F/41/">Exploring distributional influences on and effects of dynamic adaptive policy pathways for repeated coastal hazards</a>. iEMSs2018 Fort Collins, Colorado, USA. (abstract only)
 - >
     [15] Smit, B., & Wandel, J. (2006). <a href=" https://doi.org/10.1016/j.gloenvcha.2006.03.008">Adaptation, adaptive capacity and vulnerability.</a> Global Environmental Change, 16(3), 282–292.
+- >
+    [16] de Ruig, L. T., Barnard, P. L., Botzen, W. J. W., Grifman, P., Hart, J. F., de Moel, H., Sadrpour, N., & Aerts, J. C. J. H. (2019). <a href="https://doi.org/10.1016/j.scitotenv.2019.04.308">An economic evaluation of adaptation pathways in coastal mega cities: An illustration for Los Angeles.</a> Science of The Total Environment, 678, 647–659. 
+
 ---
